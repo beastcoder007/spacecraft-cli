@@ -4,7 +4,7 @@
 
 A simple CLI to solve the Spacecraft Problem, made with [TypeScript](https://www.typescriptlang.org/)
 
-Let's build a rocket together!
+Let's build a amazing rocket together!
 
 ![image](./rocket.jpg)
 
